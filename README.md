@@ -11,6 +11,13 @@ La Música es para todos, es una manifestación de la naturaleza. En esta charla
 - [Jupyter Notebook Pycon2020_Musica_Python.ipynb](http://nbviewer.jupyter.org/github/JoseRZapata/Pycon2020Colombia/blob/master/Pycon2020_Musica_Python.ipynb)
 - [Presentacion - Pycon2020_Musica_Python.ipynb](http://nbviewer.jupyter.org/format/slides/github/JoseRZapata/Pycon2020Colombia/blob/master/Pycon2020_Musica_Python.ipynb)
 
+## Contacto
+|  |  |
+|---|---|
+|<img style="float:left" src="Img/website.png" width="40px" height="40px"/>|[joserzapata.github.io](https://joserzapata.github.io/)|
+|<img style="float:left" src="Img/github.png" width="50px" height="50px"/>|[@joserzapata](https://github.com/JoseRZapata)|
+|<img style="float:left" src="Img/blue-twitter.png" width="50px" height="50px"/>|[@joserzapata](https://twitter.com/joserzapata)|
+|<img style="float:left" src="Img/li_icon.png" width="50px" height="50px"/>|[jose-ricardo-zapata-gonzalez](https://www.linkedin.com/in/jose-ricardo-zapata-gonzalez/)|
 
 ## Software y Paquetes
 
