@@ -13,6 +13,11 @@ La Música es para todos, es una manifestación de la naturaleza. En esta charla
 - [Jupyter Notebook Pycon2020_Musica_Python.ipynb](http://nbviewer.jupyter.org/github/JoseRZapata/Pycon2020Colombia/blob/master/Pycon2020_Musica_Python.ipynb)
 - [Presentacion - Pycon2020_Musica_Python.ipynb](http://nbviewer.jupyter.org/format/slides/github/JoseRZapata/Pycon2020Colombia/blob/master/Pycon2020_Musica_Python.ipynb)
 
+## Video
+
+[![Comprensión de la música con Python, una mirada desde la Física y la Matemática - PyCon Colombia 2020](http://img.youtube.com/vi/SE4EACCD4NE/0.jpg)](https://www.youtube.com/watch?v=SE4EACCD4NE)
+
+
 ## Contacto
 |  |  |
 |---|---|
